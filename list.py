@@ -10,3 +10,5 @@ num=[1,3,4,5,6]
 # print(max(names))
 # print(min(names))
 print(tuple(names))
+names.append("kanchana")
+print(names)
