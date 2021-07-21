@@ -1,4 +1,4 @@
-names=["anu","appu","sonu"]
+names=["anu","appu","sonu","brunda","chitra"]
 num=[1,3,4,5,6]
 # print(names)
 # print(num)
@@ -9,6 +9,8 @@ num=[1,3,4,5,6]
 # print(min(num))
 # print(max(names))
 # print(min(names))
-print(tuple(names))
-names.append("kanchana")
+# print(tuple(names))
+# names.append("kanchana")
+print(names)
+names.sort(reverse=True)
 print(names)
