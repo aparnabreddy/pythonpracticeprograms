@@ -1,4 +1,4 @@
-num1=10
-num2=20
-sum=num1+num2
+n1=int(input("Enter the first number: "))
+n2=int(input("Enter the second number: "))
+sum=n1+n2
 print(sum)
